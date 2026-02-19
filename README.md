@@ -70,10 +70,6 @@
 <img src="https://img.shields.io/badge/GitHub-ff003c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-ff003c?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:tuemail@gmail.com">
 <img src="https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
