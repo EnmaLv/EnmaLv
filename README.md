@@ -5,7 +5,7 @@
 # 🕷️ Enmanuel Medina  
 ### ⚡ Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Transforming+ideas+into+code;Full-Stack+Developer;Laravel+%7C+Astro+%7C+Docker;Building+modern+digital+experiences&center=true&width=500&height=45&color=ff003c&vCenter=true"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Transforming+ideas+into+code;Full-Stack+Developer;Laravel+%7C+Astro+%7C+Docker;Clean+Architecture+Enthusiast&center=true&width=500&height=45&color=ff003c&vCenter=true"/>
 
 </div>
 
@@ -13,9 +13,9 @@
 
 ## 🧠 About Me
 
-🕷️ Fui mordido por una araña desarrolladora y desde entonces transformo ideas en soluciones reales.  
-💻 Especializado en desarrollo **Full-Stack moderno y escalable**.  
-🚀 Enfocado en rendimiento, arquitectura limpia y experiencias digitales con impacto.  
+🕷️ Full-Stack Developer enfocado en crear soluciones modernas, escalables y eficientes.  
+💻 Especializado en Laravel, Astro y arquitecturas limpias.  
+🚀 Construyendo experiencias digitales con impacto real.
 
 ---
 
@@ -26,6 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-ff003c?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff003c?style=for-the-badge&logo=javascript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-ff003c?style=for-the-badge&logo=astro&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ff003c?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧩 Backend
 ![PHP](https://img.shields.io/badge/PHP-ff003c?style=for-the-badge&logo=php&logoColor=white)
@@ -44,9 +45,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnmaLv&show_icons=true&theme=transparent&title_color=ff003c&icon_color=ff003c&text_color=ffffff&border_color=ff003c"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnmaLv&show_icons=true&bg_color=000000&title_color=ff003c&icon_color=ff003c&text_color=ffffff&border_color=ff003c&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnmaLv&layout=compact&theme=transparent&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnmaLv&layout=compact&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c&cache_seconds=1800"/>
 
 </div>
 
@@ -56,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EnmaLv&theme=transparent&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&border=ff003c&stroke=ff003c&sideNums=ffffff&currStreakNum=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=EnmaLv&background=000000&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&border=ff003c&stroke=ff003c&sideNums=ffffff&currStreakNum=ffffff"/>
 
 </div>
 
@@ -70,9 +71,7 @@
 <img src="https://img.shields.io/badge/GitHub-ff003c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:tuemail@gmail.com">
-<img src="https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Email-enmanuel.medina.dev%40gmail.com-ff003c?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </div>
 
