@@ -70,7 +70,7 @@ Desde entonces construyo sistemas modernos, escalables y optimizados.
 
 <button onclick="navigator.clipboard.writeText('enmanuel.medina.dev@gmail.com')" 
 style="background:black;color:#ff003c;border:2px solid #ff003c;padding:10px 20px;font-weight:bold;cursor:pointer;">
-📩 COPY EMAIL: enmanuel.medina.dev@gmail.com
+📩 COPY EMAIL: medina.enma1234@gmail.com
 </button>
 
 </div>
