@@ -30,12 +30,6 @@ Desde entonces construyo sistemas modernos, escalables y optimizados.
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnmaLv&show_icons=true&bg_color=000000&title_color=ff003c&icon_color=ff003c&text_color=ffffff&border_color=ff003c"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnmaLv&layout=compact&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=EnmaLv&background=000000&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&border=ff003c&stroke=ff003c&sideNums=ffffff&currStreakNum=ffffff"/>
 
 <br><br>
@@ -44,17 +38,6 @@ Desde entonces construyo sistemas modernos, escalables y optimizados.
 
 </div>
 
----
-
-# 🔥 Featured Projects
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EnmaLv&repo=SisgestiondeInventario&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EnmaLv&repo=Portfolio&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
-
-</div>
 
 ---
 
