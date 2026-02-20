@@ -50,9 +50,9 @@ Desde entonces construyo sistemas modernos, escalables y optimizados.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EnmaLv&repo=repo1&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EnmaLv&repo=SisgestiondeInventario&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EnmaLv&repo=repo2&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EnmaLv&repo=Portfolio&bg_color=000000&title_color=ff003c&text_color=ffffff&border_color=ff003c"/>
 
 </div>
 
