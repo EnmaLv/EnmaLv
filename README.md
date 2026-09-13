@@ -75,7 +75,7 @@ Desde entonces construyo sistemas modernos, escalables y optimizados.
 ### ☁️ Cloud & Deployment
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=ff003c)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ff003c)
-![Aiven](https://shields.io)
+![Aiven](https://img.shields.io/badge/Aiven-000000?style=for-the-badge&logo=mongodb&logoColor=ff003c)
 
 ---
 
