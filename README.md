@@ -43,23 +43,39 @@ Desde entonces construyo sistemas modernos, escalables y optimizados.
 
 # ⚙️ Tech Arsenal
 
+### 🔤 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff003c)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ff003c)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=ff003c)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff003c)
+
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff003c)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff003c)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff003c)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=ff003c)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff003c)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=ff003c)
+![Alpine](https://img.shields.io/badge/Alpine-000000?style=for-the-badge&logo=alpinedotjs&logoColor=ff003c)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ff003c)
 
 ### 🧩 Backend
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ff003c)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=ff003c)
-![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=laravel&logoColor=ff003c)
+![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=ff003c)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff003c)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ff003c)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=ff003c)
 
 ### 🛠 Tools
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff003c)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff003c)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff003c)
+
+### ☁️ Cloud & Deployment
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=ff003c)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ff003c)
+![Aiven](https://shields.io)
 
 ---
 
